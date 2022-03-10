@@ -51,7 +51,7 @@ li:hover{
 
 /*SECTION1*/
 .sec1{
-    background-image: url("smock.jpeg");
+    background-image: url("./outils/smock.jpeg");
     background-size: 100%;
     height: 450px;
 }
